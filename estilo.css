@@ -7,6 +7,9 @@ header{
     color: white;
     text-align: center;
 }
+span{
+    font-size: 20px;
+}
 
 section{
     background: white;
@@ -20,6 +23,10 @@ section{
 div{
     text-align: center;
     padding: 8px;
+}
+
+p{
+    font-size: 10px;
 }
 
 footer{
